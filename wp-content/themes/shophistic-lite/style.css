@@ -73,6 +73,9 @@ LESS Variables and Mixins
   color: #DCDCE0;
   font-size: 14px !important;
 }
+.tel:hover{
+  font-size: 14.5px !important;
+}
 .contacts{
   width: 100%;
   z-index: 9999;
