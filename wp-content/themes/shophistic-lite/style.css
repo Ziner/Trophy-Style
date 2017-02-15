@@ -99,7 +99,7 @@ LESS Variables and Mixins
     user-select: none;
     padding: .4em 1.3em;
     outline: none;
-    border: 2px solid #E88C05;
+    border: 2px solid #DC3321;
     border-radius: 1px;
     transition: 0.2s;
     z-index: 999;
@@ -108,7 +108,6 @@ LESS Variables and Mixins
 }
   #but_car:hover {
     background: #313131;
-    border: 2px solid #E88C05;
     color: #EAEAEA;
   }
   #but_car:active { background: white; }
